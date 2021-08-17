@@ -2,10 +2,10 @@
 Face Recognition and Attendance Project
 
 The Following Python Packages were used :
-cmake
-dlib
-face_recognition
-numpy
+cmake, 
+dlib, 
+face_recognition, 
+numpy, 
 opencv-python
 
 The face_recognition library developed by Adam Geitgey is used!
