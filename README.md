@@ -22,7 +22,7 @@ Here is a screenshot of the running project:<br>
 
 The ImagesAttendance Folder contains the database for attendance marking (all the known faces whose attendance will be marked!)<br>
 Attendance.csv file contains the attendance.<br>
-<img src = "image_2.png" > <br>
+<img src = "image_2.jpg" > <br>
 
 Basics.py is for demonstration purposes only! It recognises the face and prints the Name of the person detected in terminal. The images used for this python file are in imagesBasic Folder. <br>
 
